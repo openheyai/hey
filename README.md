@@ -122,4 +122,5 @@ hey what do I have assigned to me on github right now
 hey what's on my calendar for today
 hey what's Sarah's birthday
 hey let Jeff know I'm running ten minutes late
+hey text me when I get an email from the board
 ```
