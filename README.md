@@ -14,7 +14,7 @@ hey what's using all my memory
 
 No flags. No options. No manual pages. Just ask for what you want in plain language, either by typing or speaking. Hey includes its own reference material, and can provide assistance on its capabilities through the same interface. 
 
-`hey` understands context, remembers your preferences, and handles system operations naturally. Think of it as the universal interface you'd design if you were starting from scratch today, with modern language models and a focus on human-first interaction.
+`hey` understands context, remembers your preferences, and handles system operations naturally. It schedules and maintains background tasks. Think of it as the universal interface you'd design if you were starting from scratch today, with modern language models and a focus on human-first interaction.
 
 ## Status
 
